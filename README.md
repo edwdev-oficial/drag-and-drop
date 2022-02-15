@@ -4,6 +4,6 @@
 
 
 
-- [ ] Criar index.html e estrutura básica com uma única div
-- [ ] Criar style.css e configurar css
-- [ ] Criar index.js e codar
+- [x] Criar index.html e estrutura básica com uma única div
+- [x] Criar style.css e configurar css
+- [x] Criar index.js e codar
